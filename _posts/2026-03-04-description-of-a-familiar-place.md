@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Description of a Familiar Place"
-date: 03-04-2026
+date: 2026-03-04
 author: Jude Krusemark
 tags: [description, composition]
 banner_text: "...the church is not only defined by the assembly it encloses, but also the assembly is defined by that which encloses it..."

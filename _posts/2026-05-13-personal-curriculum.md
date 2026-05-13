@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Personal Curriculum"
-date: 05-13-2026
+date: 2026-05-13
 author: Jude Krusemark
 tags: [personal-education]
 banner_text: "There are so many things to learn about God’s great and wonderful creation, yet the time to do so is lacking."
