@@ -421,3 +421,50 @@ blockquote {
   color: var(--secondary);
   margin: 1rem 0;
 }
+
+/*Subscribe*/
+.subscribe-box {
+  max-width: 420px;
+  padding: 18px 20px;
+  margin: 40px auto;
+  border: 1px solid #ddd;
+  border-radius: 10px;
+  background: #fafafa;
+  text-align: center;
+}
+
+.subscribe-title {
+  margin: 0;
+  font-size: 1.2rem;
+}
+
+.subscribe-text {
+  font-size: 0.9rem;
+  color: #555;
+  margin-bottom: 12px;
+}
+
+.subscribe-form {
+  display: flex;
+  gap: 8px;
+}
+
+.subscribe-form input {
+  flex: 1;
+  padding: 10px;
+  border: 1px solid #ccc;
+  border-radius: 6px;
+}
+
+.subscribe-form button {
+  padding: 10px 14px;
+  border: none;
+  border-radius: 6px;
+  background: #111;
+  color: white;
+  cursor: pointer;
+}
+
+.subscribe-form button:hover {
+  background: #333;
+}
