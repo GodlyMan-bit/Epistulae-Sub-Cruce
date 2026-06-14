@@ -27,6 +27,12 @@ body {
   flex-direction: column;
 }
 
+img {
+  max-width: 100%;
+  height: auto;
+  display: block;
+}
+
 .container {
   width: min(1100px, 94%);
   margin: 0 auto;
