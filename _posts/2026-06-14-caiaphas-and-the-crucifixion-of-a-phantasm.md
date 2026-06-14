@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Caiaphas and the Crucifixion of a Phantasm"
+title: "Caiaphas and the Crucifixion of a Phantasm | Week 2 of Summer Curriculum"
 date: 2026-06-14
 author: Jude Krusemark
 tags: [personal-education]
