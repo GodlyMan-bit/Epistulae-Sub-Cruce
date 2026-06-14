@@ -21,9 +21,9 @@
 title: Epistulae Sub Cruce
 author: Jude Krusemark
 description: A blog for the writings of Jude Krusemark
-baseurl: "" # leave empty for local use
-url: ""     # fill with your GitHub Pages URL later
 
+url: "https://subcruce.blog"
+baseurl: ""
 
 # Build settings
 # theme: minima
