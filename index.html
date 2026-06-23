@@ -25,11 +25,10 @@ title: Epistulae Sub Cruce
     </p>
 </section>
 
-
 <section id="posts" class="post-section content-card">
-    <h1>Posts</h1>
+    <h1>Recent Posts</h1>
     <div class="posts-grid">
-        {% for post in site.posts %}
+        {% for post in site.posts limit:4 %}
         <article class="post-card">
             <h2 class="post-title">
                 <a href="{{ post.url | relative_url }}">{{ post.title }}</a>

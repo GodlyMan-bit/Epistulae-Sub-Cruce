@@ -1,9 +1,15 @@
-<div class="subscribe-box">
-  <h3 class="subscribe-title">Subscribe</h3>
-  <p class="subscribe-text">Get new posts delivered by email.</p>
+<div class="subscribe-wrapper">
+  <div class="subscribe-logo">
+    <img src="{{ 'assets\images\epistulae_sub_cruce_logo.png' | relative_url }}" alt="Epistulae Sub Cruce">
+  </div>
 
-  <form action="https://buttondown.email/api/emails/embed-subscribe/godlyman" method="post" class="subscribe-form">
-    <input type="email" name="email" placeholder="Email address" required />
-    <button type="submit">Join</button>
-  </form>
+  <div class="subscribe-box">
+    <h3 class="subscribe-title">Subscribe</h3>
+    <p class="subscribe-text">Get new posts delivered by email.</p>
+
+    <form action="https://buttondown.email/api/emails/embed-subscribe/godlyman" method="post" class="subscribe-form">
+      <input type="email" name="email" placeholder="Email address" required />
+      <button type="submit">Join</button>
+    </form>
+  </div>
 </div>
