@@ -88,3 +88,5 @@ The final eighth stanza forms a glorious doxology. The hymn has a certain Ambros
 The hymn begins with Christ entering into a human family and ends with humanity gathered into the family of God. The blessing Christ lays upon humanity is not merely a blessing of earthly life, but the eternal blessing won through His incarnation, death, and resurrection.
 
 *Writen on June 28, 2026. All Scripture references from ESV.*
+
+Interested in getting a copy of *Te Laudamus?* Get yours at [telaudamus.org](https://telaudamus.org).
