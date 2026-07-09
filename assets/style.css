@@ -12,6 +12,16 @@
   box-sizing: border-box;
 }
 
+html {
+  font-size: 100%;
+}
+
+@media (min-width: 992px) {
+  html {
+    font-size: 110%;
+  }
+}
+
 html,
 body {
   height: 100%;
@@ -25,6 +35,43 @@ body {
 body {
   display: flex;
   flex-direction: column;
+}
+
+/* General links */
+main a {
+  color: #007acc;
+}
+
+main a:hover {
+  color: #8b5e3c;
+  border-bottom-color: #8b5e3c;
+}
+
+hr {
+  border: 0;
+  height: 24px;
+  margin: 2.5rem auto;
+  width: 90%;
+  background:
+    linear-gradient(to right, transparent, #8f8468, transparent)
+    center / 100% 1px no-repeat;
+  position: relative;
+}
+
+hr::before {
+  content: "✠";
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  transform: translate(-50%, -50%);
+  color: #8f8468;
+  font-size: 1.1rem;
+  background: var(--primary);
+  padding: 0 14px;
+  line-height: 1;
 }
 
 img {
