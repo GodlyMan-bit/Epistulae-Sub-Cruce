@@ -29,6 +29,9 @@ permalink: /commonplace/
 > “For love is that liquor so sweet and Divine,
 > That God felt as blood, but we taste as wine.” — George Herbert
 
+**Referenced in:**
+[Analysis on The Agony](/2026/07/13/analysis-on-the-agony)
+
 ---
 
 > “If you are suffering from a bad man’s injustice, forgive him—lest there be two bad men.” — St. Augustine

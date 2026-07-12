@@ -66,10 +66,9 @@ hr::before {
   position: absolute;
   left: 50%;
   top: 50%;
-  transform: translate(-50%, -50%);
+  transform: translate(-50%, -40%);
   color: #8f8468;
   font-size: 1.1rem;
-  background: var(--primary);
   padding: 0 14px;
   line-height: 1;
 }
