@@ -36,7 +36,7 @@ A husband does not tell his wife, “I love you because it is the rational choic
 
 Likewise, faith motivated solely by fear of hell or desire for heaven misses the object of faith entirely. Christianity is not primarily about escaping punishment; it is about receiving Christ.
 
-## II. Can Someone Choose to Believe?
+## III. Can Someone Choose to Believe?
 
 Can a person simply decide to believe because the odds appear favorable?
 
@@ -50,14 +50,14 @@ Scripture teaches that faith is not manufactured by human reason or decision but
 
 This, however, does not make reason useless. Reason has an important place in defending the faith and exposing contradictions. But reason cannot produce what only God can give
 
-## III. Pascal’s Real Strength
+## IV. Pascal’s Real Strength
 Despite these concerns, I do not think Pascal should be dismissed. His wager does something valuable.
 
 It confronts the comfortable assumption that religious questions are unimportant. If Christianity could possibly be true, then ignoring it is itself a decision with enormous consequences. Many people spend years researching careers, investments, and politics while giving little serious thought to the claims of Christ.
 
 Pascal forces us to recognize that neutrality is itself a kind of wager.
 
-## IV. Where the Wager Must End
+## V. Where the Wager Must End
 The wager may persuade someone to investigate Christianity, but it cannot produce Christianity itself.
 
 Eventually, the question changes from *“What is the safest bet?”* to *“Who is Jesus Christ?”* That question cannot be answered with probability tables.
