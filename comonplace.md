@@ -9,10 +9,7 @@ permalink: /commonplace/
 *A selection of quotes that have shaped my thinking. Where applicable, each entry links to essays in which I discuss or employ the quotation.*
 
 ---
-
-> “The law is reason free from passion” — Aristotle
-
----
+## Theology
 
 > “If we must remember offenses, let us remember only our own. And if we remember our own sins, we shall never store up the sins of others.” — St. John Chrysostom
 
@@ -22,19 +19,29 @@ permalink: /commonplace/
 
 ---
 
+> “If you are suffering from a bad man’s injustice, forgive him—lest there be two bad men.” — St. Augustine
+
+---
+
+> “…I was going down to hell, carrying all the sins which I had committed, both against Thee, and myself, and others, many and grievous, over and above that bond of original sin, whereby we all die in Adam. For Thou hadst not forgiven me any of these things in Christ, nor had He abolished by His Cross the enmity which by my sins I had incurred with Thee. For how should He, by the crucifixion of a phantasm, which I believed Him to be?” (Augustine, _Confessions_ V.10).
+
+**Reference in:**
+[Caiaphas and the Crucifixion of a Phantasm](2026/06/14/caiaphas-and-the-crucifixion-of-a-phantasm)
+
+---
+## Philosophy
+
+> “The law is reason free from passion” — Aristotle
+
+---
+
 > “There is no better test of a man's ultimate chivalry and integrity than how he behaves when he is wrong.” — G.K. Chesterton
 
 ---
+## Literature & Poetry
 
 > “For love is that liquor so sweet and Divine,
 > That God felt as blood, but we taste as wine.” — George Herbert
-
-**Referenced in:**
-[Analysis on The Agony](/2026/07/13/analysis-on-the-agony)
-
----
-
-> “If you are suffering from a bad man’s injustice, forgive him—lest there be two bad men.” — St. Augustine
 
 ---
 
@@ -50,11 +57,19 @@ permalink: /commonplace/
 > To suffer for the people.” (Dante, *Inferno* XXIII.115–123; cf. John 11:49–50)
 
 **Referenced in:**
-[Caiaphas and the Crucifixion of a Phantasm](/2026/06/14/caiaphas-and-the-crucifixion-of-a-phantasm)
+[Caiaphas and the Crucifixion of a Phantasm](2026/06/14/caiaphas-and-the-crucifixion-of-a-phantasm)
 
 ---
 
-“…I was going down to hell, carrying all the sins which I had committed, both against Thee, and myself, and others, many and grievous, over and above that bond of original sin, whereby we all die in Adam. For Thou hadst not forgiven me any of these things in Christ, nor had He abolished by His Cross the enmity which by my sins I had incurred with Thee. For how should He, by the crucifixion of a phantasm, which I believed Him to be?” (Augustine, _Confessions_ V.10).
+> The mind is its own place, and in itself  
+> Can make a Heav’n of Hell, a Hell of Heav’n.
+*(Milton, Paradise Lost Book 1.254-255)*
 
-**Reference in:**
-[Caiaphas and the Crucifixion of a Phantasm](/2026/06/14/caiaphas-and-the-crucifixion-of-a-phantasm)
+> Of man’s disobedience, and the fruit
+> Of that forbidden tree, whose mortal taste
+> Brought death into the world, and all our woe,
+> *(Milton, Paradise Lost Book 1.1-3)*
+
+**Referenced in:**
+[Till One Greater Man](2026/08/10/till_one_greater_man)
+---
