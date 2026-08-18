@@ -62,14 +62,25 @@ permalink: /commonplace/
 ---
 
 > The mind is its own place, and in itself  
-> Can make a Heav’n of Hell, a Hell of Heav’n.
-*(Milton, Paradise Lost Book 1.254-255)*
+> Can make a Heav’n of Hell, a Hell of Heav’n.  
+*(Milton, Paradise Lost Book I.254-255)*
 
-> Of man’s disobedience, and the fruit
-> Of that forbidden tree, whose mortal taste
-> Brought death into the world, and all our woe,
-> *(Milton, Paradise Lost Book 1.1-3)*
+> Of man’s disobedience, and the fruit  
+> Of that forbidden tree, whose mortal taste  
+> Brought death into the world, and all our woe,  
+> *(Milton, Paradise Lost Book I.1-3)*
 
 **Referenced in:**
 [Till One Greater Man](2026/08/10/till_one_greater_man)
 ---
+
+> Some easier enterprise? There is a place  
+> (If ancient and prophetic fame in Heav’n  
+> Err not) another world, the happy seat  
+> Of some new race called *Man*, about this time  
+> To be created like to us, though less  
+> In power and excellence, but favoured more.  
+> *(Milton, Paradise Lost Book II.345-350)*
+
+**Referenced in:**
+[The Council of Hell](2026/08/18/the_council_of_hell)
