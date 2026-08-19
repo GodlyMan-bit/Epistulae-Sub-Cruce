@@ -8,7 +8,7 @@ banner_text: "Book II leads to the question: What does rebellion against God acc
 ---
 *Book II of Paradise Lost*
 
-Book II left off where Book I ended: with Satan and the fallen angels established in Hell. They have built Pandemonium, their magnificent palace, and now they gather together to determine what they will do. Satan sits above them as their rebel king, and Milton immediately gives his throne an impressive description:
+Book II begins where Book I ended: with Satan and the fallen angels established in Hell. They have built Pandemonium, their magnificent palace, and now they gather together to determine what they will do. Satan sits above them as their rebel king, and Milton immediately gives his throne an impressive description:
 
 > High on a throne of royal state, which far  
 > Outshone the wealth of Ormus and of Ind,  
@@ -20,7 +20,7 @@ Book II left off where Book I ended: with Satan and the fallen angels establishe
 
 The imagery is magnificent. Satan’s throne surpasses the fabulous wealth of the East, and he is surrounded by all the imagery of an earthly king. Satan seems to possess everything necessary for a great monarch.
 
-Yet this grandeur falls short. Satan is not sitting on a throne in heaven, but in Hell. He rules a kingdom that is a parody of the order he has rejected. Milton soon calls Satan’s position, “bad eminence.” He indeed has been exalted, but his exaltation is toward evil rather than good. The qualities that make Satan impressive are all turned against God. 
+Yet this grandeur falls short. Satan is not sitting on a throne in heaven, but in Hell. He rules a kingdom that is a parody of the order he has rejected. Milton soon calls Satan’s position “bad eminence.” He indeed has been exalted, but his exaltation is toward evil rather than good. The qualities that make Satan impressive are all turned against God. 
 
 This is an important development from Book I. Satan can still appear heroic, but Milton is increasingly showing us what kind of hero he actually is. His greatness does not lead him toward reconciliation with God. Instead, it makes him more effective in rebellion.
 
