@@ -28,19 +28,8 @@ The differences between Luther's polemic and More's dialogue also reflect the di
 
 Martin Luther's *Martinus Lutherus contra Henricum Regem Angliae* and Thomas More's *Utopia* examine the limitations of political authority through different forms of criticism. Luther's polemic insists that royal dignity cannot establish the truth of theological claims, while More's dialogue explores whether wisdom and justice can meaningfully influence political institutions. Their different literary methods reflect distinct problems: Luther challenges a ruler's claims from outside his court, whereas More considers the difficulty of reforming political life through counsel and participation. Together, the works point out that political authority must answer to standards beyond itself, but they also raise a further question: how can those standards be brought to bear upon rulers who refuse to recognize them? Luther emphasizes the duty to defend Christian truth against royal error, while More leaves readers to consider whether withdrawal from imperfect institutions or participation in them offers the better hope of reform.
 
-\newpage
+## Works Cited
 
-\begin{center}
-Works Cited
-\end{center}
-
-\noindent
-\hangindent=0.5in
-\hangafter=1
 Luther, Martin, *Martinus Lutherus contra Henricum Regem Angliae*. Translated by  E. S. Buchanan, Charles A. Swift, 1928. *Project Canterbury*, www.anglicanhistory.org/lutherania/against_henry.html
 
-\noindent
-\hangindent=0.5in
-\hangafter=1
 More, Thomas. \textit{Utopia}. Edited by George M. Logan, translated by Robert M. Adams, Cambridge University Press, 2016.
-\par
