@@ -32,4 +32,4 @@ Martin Luther's *Martinus Lutherus contra Henricum Regem Angliae* and Thomas Mor
 
 Luther, Martin, *Martinus Lutherus contra Henricum Regem Angliae*. Translated by  E. S. Buchanan, Charles A. Swift, 1928. *Project Canterbury*, www.anglicanhistory.org/lutherania/against_henry.html
 
-More, Thomas. \textit{Utopia}. Edited by George M. Logan, translated by Robert M. Adams, Cambridge University Press, 2016.
+More, Thomas. *Utopia*. Edited by George M. Logan, translated by Robert M. Adams, Cambridge University Press, 2016.
