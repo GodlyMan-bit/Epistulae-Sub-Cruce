@@ -3,7 +3,7 @@ layout: post
 title: "Idleness and Luxury in Utopia and the Large Catechism Preface"
 date: 2026-10-20
 author: Jude Krusemark
-tags: [paideia-iii]
+tags: [Paideia-III]
 banner_text: "Idleness and luxury are often understood merely as failures to work, but Thomas More and Martin Luther understand them as something more serious: a failure to fulfill one’s proper duties."
 ---
 *A paper written for Paideia III class.*
